@@ -1,7 +1,7 @@
 <?php
 
 // GNews API anahtarı - Aktivasyon sonrası alınan yeni anahtarı buraya ekleyin
-define('API_KEY', 'pub_72586eaeac340575c6681e48a520001029ad6');
+define('API_KEY', '');
 
 // Hata raporlama
 error_reporting(E_ALL);
